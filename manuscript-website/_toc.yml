@@ -47,3 +47,17 @@ chapters:
           - file: Main_Figures/Figure_6/Figure_6g
           - file: Main_Figures/Figure_6/Figure_6h
   - file: Data_Applications/index
+  - file: Simulation_Codes/index
+        sections:
+          - file: Simulation_Codes/1.Phenotype_simulation
+          - file: Simulation_Codes/2.Run_Colocboost
+          - file: Simulation_Codes/3.Other_Methods
+          - file: Simulation_Codes/4.Result_Summary
+          - file: Simulation_Codes/5.Simulation_secondary
+          - file: Simulation_Codes/6.Simulation_GWAS
+          - file: Simulation_Codes/7.Simulation_correlated
+          - file: Simulation_Codes/8.Null_Simulation
+          - file: Simulation_Codes/9.Fineboost
+          - file: Simulation_Codes/10.OPERA_simulation
+          - file: Simulation_Codes/11.OPERA_original_design
+      
